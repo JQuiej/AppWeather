@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppWeather" parent="android:Theme.Material.Light.NoActionBar">
+    <item name="android:colorPrimary">#161c2a</item>
+    <item name="android:colorPrimaryDark">#1a2332</item>
+    <item name="android:colorAccent">#60d4ea</item>
+    <item name="android:textColor">#FFFF</item>
+    </style>
+    
+</resources>
